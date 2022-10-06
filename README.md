@@ -1,4 +1,4 @@
-Utilizando os conceitos apreendidos em Programação Orientada a Objetos,
+Utilizando os conceitos aprendidos na disciplina de Programação Orientada a Objetos, de Engenharia de Computação do semestre 01/2022,
 foi construiodo um programa Java utilizando Interface gráfica com o objetivo de:
   ● Criar um Jogo de batalha naval, onde o jogador irá competir com o
   computador.
