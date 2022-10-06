@@ -1,2 +1,10 @@
-# final_project_poo_batalha_naval
-Utilizando os conceitos apreendidos em Programação Orientada a Objetos em java, foi dado o desafio de criar um jogo de batalha naval
+Utilizando os conceitos apreendidos em Programação Orientada a Objetos,
+foi construiodo um programa Java utilizando Interface gráfica com o objetivo de:
+  ● Criar um Jogo de batalha naval, onde o jogador irá competir com o
+  computador.
+  ● Onde:
+    o O campo de jogo deve ser no mínimo de uma tela de 8 x 8 áreas.
+    o Quando todos os navios/submarinos forem atingidos o jogador deve
+    receber um aviso na tela informando a derrota ou vitória.
+    
+O programa foi criado por mim e mais outros dois alunos.
